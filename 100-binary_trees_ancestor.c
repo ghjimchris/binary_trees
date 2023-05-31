@@ -2,7 +2,7 @@
 
 /**
  * binary_trees_ancestor - This is a function  that finds the
- * lowest common ancestor of two nodes.
+ * lowest common ancestor of two nodes in the file.
  * @first: is the pointer to the forst node.
  * @second: is the pointer to the second node.
  *
